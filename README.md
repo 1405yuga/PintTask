@@ -32,17 +32,11 @@ User can click on ` + ` floating button on the main screen to add a new task. Wh
 
 Using the `pin` icon, users can add or remove tasks from the notification. This helps keep important tasks in the notification as a reminder.
 
-- Users can pin a task while creating it.
+1. Users can pin a task while creating it.
+2. Alternatively, they can pin a task from the displayed list.
 
 <img src="https://github.com/user-attachments/assets/81a3355d-03a9-468d-adb0-9ec1d9e75f63" width="273"/>
-
-<br />
-<br />
-
-- Alternatively, they can pin a task from the displayed list.
-  
 <img src="https://github.com/user-attachments/assets/52d44393-fa5e-4163-9b81-2dc96e8f0155" width="273"/>
-
 
 ### Navigation View :
 
@@ -55,17 +49,11 @@ User can click on three-dashed icon for navigation view for more profile orienet
 
 Account consists of ` SignOut ` and ` Delete Account `menu .
 
-- In the `SignOut` menu, users can log out from their current account. A confirmation dialog appears before signing out. If the user clicks `Yes`, they will be logged out and redirected to the SignIn screen.
+1. In first image `SignOut` menu, users can log out from their current account. A confirmation dialog appears before signing out. If the user clicks `Yes`, they will be logged out and redirected to the SignIn screen.
+2. In second image `Delete Account` menu, users can permanently delete their account and all data will be lost. A confirmation dialog appears before the deletion. If the user clicks `Yes`, the account will be deleted, and they will be redirected to the SignIn screen.
 
 <img src="https://github.com/user-attachments/assets/9c1b7673-5048-49ca-839a-51fa367f5836" width="273"/>
-
-<br />
-<br />
-
-- In the `Delete Account` menu, users can permanently delete their account and all data will be lost. A confirmation dialog appears before the deletion. If the user clicks `Yes`, the account will be deleted, and they will be redirected to the SignIn screen.
-
 <img src="https://github.com/user-attachments/assets/7d9858bc-46ea-4fb6-9270-c8973972faab" width="273"/>
-
 
 ### Display Preference :
 
@@ -77,30 +65,20 @@ In the `Display Preference` menu, users can switch between Light and Dark modes.
 
 The Options menu consists of ` Clear All Tasks ` and ` Unpin All Tasks `.
 
-- ` Clear All Tasks `: Removes all tasks from the list.
+1. In first image ` Clear All Tasks `: Removes all tasks from the list.
+2. In second image ` Unpin All Tasks `: Unpins and removes all pinned tasks from the notification.
   
 <img src="https://github.com/user-attachments/assets/84bbfa0c-f911-428d-b4ab-4a2d5a6b55c7" width="273"/>
-
-<br />
-<br />
-
-- ` Unpin All Tasks `: Unpins and removes all pinned tasks from the notification.
-
 <img src="https://github.com/user-attachments/assets/e4a7eea3-9188-4576-ac94-8d95f284d2ef" width="273"/>
 
 ### About :
 
 The About menu consists of ` Developer ` and ` Documentations `.
 
-- ` Developer ` menu navigates to the developer's profile.
+1. In first image ` Developer ` menu navigates to the developer's profile.
+2. In second image ` Documentations ` menu navigates to the documentation page which describes how to use this app.
   
 <img src="https://github.com/user-attachments/assets/fece9722-84cf-4e8f-b732-5d150156e838" width="273"/>
-
-<br />
-<br />
-
-- ` Documentations ` menu navigates to the documentation page which describes how to use this app.
-
 <img src="https://github.com/user-attachments/assets/7bdb594c-8d1b-4b94-ba3c-0f06e0179cfe" width="273"/>
 
 
